@@ -1,4 +1,4 @@
-import { InfoOutline } from '@styled-icons/evaicons-outline/InfoOutline'
+// import { Github } from '@styled-icons/evaicons-solid/Github'
 
 import LinkWrapper from 'components/LinkWrapper'
 import Main from 'components/Main'
@@ -6,9 +6,7 @@ import Main from 'components/Main'
 export default function Home() {
   return (
     <>
-      <LinkWrapper href="/about">
-        <InfoOutline size={32} aria-label="About" />
-      </LinkWrapper>
+      <LinkWrapper href="/about">Github</LinkWrapper>
       <Main />
     </>
   )
