@@ -2,7 +2,7 @@ import * as S from './styles'
 
 const Main = () => (
   <S.Wrapper>
-    <S.Title>Finances GO</S.Title>
+    <S.Title>Finances</S.Title>
 
     <S.Description>Gerencie suas finanças pessoais</S.Description>
 
